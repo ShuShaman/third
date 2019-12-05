@@ -1,0 +1,11 @@
+﻿  Matrix.cpp
+C:\Users\user\Desktop\lab2\lab2Task1\Matrix.cpp(48): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\user\Desktop\lab2\lab2Task1\Matrix.cpp(49): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\user\Desktop\lab2\lab2Task1\Matrix.cpp(57): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\user\Desktop\lab2\lab2Task1\Matrix.cpp(58): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\user\Desktop\lab2\lab2Task1\Matrix.cpp(83): warning C4018: <: несоответствие типов со знаком и без знака
+  Vector.cpp
+C:\Users\user\Desktop\lab2\lab2Task1\Vector.cpp(58): warning C4018: <: несоответствие типов со знаком и без знака
+  lab2Task1.cpp
+  Создание кода...
+  lab2Task1.vcxproj -> C:\Users\user\Desktop\lab2\Debug\lab2Task1.exe
